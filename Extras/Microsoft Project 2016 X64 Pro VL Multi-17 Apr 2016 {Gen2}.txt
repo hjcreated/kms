@@ -1,0 +1,90 @@
+
+* Microsoft Project 2016 X64 Pro VL Multi-17 April 2016
+
+* 16.04.4266.1001 
+
+
+[ RELEASE INFO ]
+
+
+* This release contains one ISO [SOURCE ISO] and 16 executable svf-files.
+
+* All exe-files are created from original ISO's for each language.
+
+* This is done with SmartVersion, a program that calculates the 
+* difference between two files (one of which is used as the source) 
+* and then creates an svf-file based on that difference.
+
+* SCREENSHOT:
+[url]http://server.myspace-shack.com/d21/00031446.png[/url]
+
+* Hash-values and Source-info attached in a separate .txt
+
+[ DOWNLOAD INFO ]
+
+* Download the Source ISO and preferred language
+* If you want en-US then just download the SOURCE ISO
+
+* Run the svf-file in the same folder as the SOURCE ISO.
+* This will extract & recreate the ORIGINAL ISO, fully updated and
+* in the selected language.
+
+* NOTE!
+* THE EXTRACTED ISO(s) IS NOT THE ENGLISH SOURCE ISO + AN INTEGRATED LANGUAGE PACK,
+* IT IS AN ORIGINAL ISO FOR EACH LANGUAGE.
+
+[ LANGUAGES ] 
+
+* Arabic
+* Danish 
+* German
+* Greek 
+* English
+* Spanish
+* Finnish 
+* French
+* Italian 
+* Norwegian 
+* Dutch
+* Polish  
+* Brazilian 
+* Portuguese
+* Russian 
+* Swedish
+* Turkish  
+
+[ SOURCE ISO ]
+
+* Project16.X64.en-US 
+* Size: 495MB
+
+[ SVF-FILES ]
+
+* Project16.X64.ar-SA 
+* Project16.X64.da-DK
+* Project16.X64.de-DE
+* Project16.X64.el-GR
+* Project16.X64.es-ES
+* Project16.X64.fi-FI
+* Project16.X64.fr-FR
+* Project16.X64.it-IT
+* Project16.X64.nb-NO
+* Project16.X64.nl-NL
+* Project16.X64.pl-PL
+* Project16.X64.pt-BR
+* Project16.X64.pt-PT
+* Project16.X64.ru-RU
+* Project16.X64.sv-SE
+* Project16.X64.tr-TR
+
+* Activator: KMSpico v10.1.9
+[ Potential False Positive Virus Alarm ]
+
+[ CREDITS ]
+* ashish.k, milrob & stevie161057 for continued 
+* support and help with user questions.
+
+* Hope you will enjoy this release!
+
+* Regards,
+* Generation2 @ ET, KAT & TPB 		
